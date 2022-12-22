@@ -1,25 +1,15 @@
 {
-  "name": "myntra-api",
+  "name": "bankingapp-mock-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "build":"node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gk072745/Myntra-API.git"
+    "start" : "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gk072745/Myntra-API/issues"
-  },
-  "homepage": "https://github.com/gk072745/Myntra-API#readme",
   "dependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.16.2"
   }
 }
