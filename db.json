@@ -186,6 +186,594 @@
         "https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/16/462e80ef-51d4-4a81-a509-72d45ec7f6331647417948751-Studiocontent-HPBanner-Women-WorkWearBasicsByoutlanSrish.gif",
         "https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/16/462e80ef-51d4-4a81-a509-72d45ec7f6331647417948751-Studiocontent-HPBanner-Women-WorkWearBasicsByoutlanSrish.gif"
         
+    ],
+
+    "Products":[  
+
+    {     "id":1,
+        "title":"Men Pack Of 2 Solid V-Neck Pure Cotton Casual T-shirts",
+        "brand":"Puma",
+        "rating":4,
+        "ratingT":373,
+        "category":"TShirts",
+        "type":"Men",
+        "price":824,
+        "MRP":1499,
+        "discount":45,
+        "size":[
+          "S", "M", "L", "XL", "XXL"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17875614/2022/5/10/c91237b2-389b-4d8e-ab0c-c122f188c17c1652179469210-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--1.jpg",
+        "images":[
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/c91237b2-389b-4d8e-ab0c-c122f188c17c1652179469210-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--1.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/41c95e3c-25b3-42c1-8028-d8be464558df1652179469183-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--2.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/abbcf7fd-ac0b-4b22-9178-b08f384f93051652179469160-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--3.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/783975a9-ac40-447a-9c17-4d51ea5f92441652179469109-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--5.jpg"
+        ]
+
+    },
+
+    { "id":2,
+        "title":"Men Grey Solid dryCELL Running T-shirt",
+        "brand":"Puma",
+        "rating":4.6,
+        "ratingT":23,
+        "category":"TShirts",
+        "type":"Men",
+        "price":1599,
+        "MRP":1999,
+        "discount":20,
+        "size":[
+              "S","M","L","XL","XXL"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18981964/2022/11/11/7476d5b3-3f09-496c-b7ff-3da00afdc0f71668164352231-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-1.jpg",
+        "images":[
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/7476d5b3-3f09-496c-b7ff-3da00afdc0f71668164352231-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-1.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/c54e3d5f-9e4f-41b6-a66f-aceba9ef33f01668164352206-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-2.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/32dddabd-d8fd-49a3-96dd-f17514ff17f11668164352131-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-5.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/ceaac9c5-e5e6-429d-b606-50dcaf74dadc1668164352103-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-6.jpg"
+        ]
+
+    },
+
+    {     "id":3,
+        "title":"PUMA Black & Fluorescent Green IT evoTRG THERMO-R ACTV Printed T-shirt",
+        "brand":"Puma",
+        "rating":4.8,
+        "ratingT":938,
+        "category":"TShirts",
+        "type":"Men",
+        "price":5599,
+        "MRP":6999,
+        "discount":20,
+        "size":[
+         "M","L"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1565614/2016/10/1/11475325375983-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-1.jpg",
+        "images":[
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375983-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-1.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375965-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-2.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375947-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-3.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375926-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-4.jpg"
+        ]
+
+    },
+
+    {     "id":4,
+        "title":"Men Green dryCELL Sleeveless Training T-shirt",
+        "brand":"Puma",
+        "rating":4.8,
+        "ratingT":239,
+        "category":"TShirts",
+        "type":"Men",
+        "price":14949,
+        "MRP":22999,
+        "discount":35,
+        "size":[
+  "S","M","L","XL","XXL"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18982172/2022/8/23/5c6ac3f6-df87-493f-8889-f2a72da62dbc1661245129169-PUMA-FIT-TANK-7881661245128705-1.jpg",
+        "images":[
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/5c6ac3f6-df87-493f-8889-f2a72da62dbc1661245129169-PUMA-FIT-TANK-7881661245128705-1.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/56deb1c3-cd9e-4dbb-89a8-e45274bdcb491661245129162-PUMA-FIT-TANK-7881661245128705-2.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/af097220-604a-4b8f-a30e-d9c114e428f71661245129143-PUMA-FIT-TANK-7881661245128705-4.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/a6f8a150-16dc-4842-8d78-07a7c3db5a591661245129132-PUMA-FIT-TANK-7881661245128705-5.jpg"
+        ]
+
+    },
+    
+    {"id":5,
+        "title":"517 Men Navy Blue Slim Bootcut Fit Mid-Rise Light Fade Clean Look Stretchable Jeans",
+        "brand":"Levis",
+        "rating":3.9,
+        "ratingT":26,
+        "category":"Jeans",
+        "type":"Men",
+        "price":2859,
+        "MRP":4399,
+        "discount":35,
+        "size":[
+        28,30,32,34,36
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18973970/2022/11/3/9811e6bc-adb3-4232-a0f7-8d1c5a59cf961667446781668-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/9811e6bc-adb3-4232-a0f7-8d1c5a59cf961667446781668-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/482b998b-0f2e-42b7-a898-1c1022e367301667446781643-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-2.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/ecc237ad-21fd-4fb3-84f4-bf77fc90baa61667446781619-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-3.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/7a6913c1-0df0-4e75-a137-13eea75d61051667446781595-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-4.jpg"    
+        ]
+
+    },
+
+       
+    {"id":6,
+        "title":"Men Blue 511 Slim Fit Heavy Fade Stretchable Jeans",
+        "brand":"Levis",
+        "rating":3.9,
+        "ratingT":240,
+        "category":"Jeans",
+        "type":"Men",
+        "price":2559,
+        "MRP":3199,
+        "discount":20,
+        "size":[
+28,30,32,34,36,38
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/18074818/2022/9/22/4bf811bc-a95f-4165-b342-120f55f6c28b1663844904445LevisMenBlue511SlimFitHeavyFadeStretchableJeans1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/4bf811bc-a95f-4165-b342-120f55f6c28b1663844904445LevisMenBlue511SlimFitHeavyFadeStretchableJeans1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/d92a1bb8-86a5-4829-a5fa-cc2af58083f51663844904490LevisMenBlue511SlimFitHeavyFadeStretchableJeans3.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/4c484cf4-88d7-4fce-8efc-2d1531c5ed3b1663844904468LevisMenBlue511SlimFitHeavyFadeStretchableJeans2.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/d9c17e51-b660-48cc-a9be-47f31d7f91e71663844904513LevisMenBlue511SlimFitHeavyFadeStretchableJeans4.jpg"    
+        ]
+
+    } ,
+
+    {"id":7,
+        "title":"Men Black 65504 Skinny Fit Light Fade Stretchable Jeans",
+        "brand":"Levis",
+        "rating":4.4,
+        "ratingT":11,
+        "category":"Jeans",
+        "type":"Men",
+        "price":9239,
+        "MRP":13399,
+        "discount":30,
+        "size":[
+ 28 ,30,32,34,36
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/18973660/2022/10/14/d243a950-cb02-45f2-a3ac-10efb4514a291665721752316-Levis-Men-Jeans-9371665721751707-1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/d243a950-cb02-45f2-a3ac-10efb4514a291665721752316-Levis-Men-Jeans-9371665721751707-1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/1ee4aaf7-bdc6-4547-979d-61fa47930e1f1665721752307-Levis-Men-Jeans-9371665721751707-2.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/c9edf6ed-ff07-4cf9-8359-dd313d85687d1665721752298-Levis-Men-Jeans-9371665721751707-3.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/d83e0d29-d1ed-4484-8569-5f9428b628f31665721752289-Levis-Men-Jeans-9371665721751707-4.jpg"    
+        ]
+
+    },
+
+    {"id":8,
+        "title":"Men Blue 551Z Straight Fit Light Fade Stretchable Jeans",
+        "brand":"Levis",
+        "rating":4.7,
+        "ratingT":6,
+        "category":"Jeans",
+        "type":"Men",
+        "price":3999,
+        "MRP":4999,
+        "discount":20,
+        "size":[
+       30,32,34,36,38,40
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18974072/2022/12/7/dda3ba3a-e1dd-4a63-82e0-0eac608d6d0c1670414622312-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/dda3ba3a-e1dd-4a63-82e0-0eac608d6d0c1670414622312-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/6c411540-c625-4df4-b9ac-b1df1342c8361670414622300-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-2.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/7b64c600-c7da-4ab9-922b-dff9964e213c1670414622271-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-4.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/db891e9d-3760-42a0-9869-3345648cd96c1670414622257-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-5.jpg"    
+        ]
+
+    },
+
+    {   "id":9,
+        "title":"Men Yellow & White Printed Woven Nehru Jacket",
+        "brand":"MEWAR",
+        "rating":4.3,
+        "ratingT":297,
+        "category":"Nehru Jackets",
+        "type":"Men",
+        "price":1769,
+        "MRP":2999,
+        "discount":41,
+        "size":[
+                  "XXL"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17761050/2022/4/5/fc58ba3e-5813-4748-8d31-1d9b5b9d739f1649141616652MewarMensYellowPrintedJacket381.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/fc58ba3e-5813-4748-8d31-1d9b5b9d739f1649141616652MewarMensYellowPrintedJacket381.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/17786d7c-8673-4343-a639-282abe95986b1649141616640MewarMensYellowPrintedJacket382.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/4cd93437-c06a-4f44-b004-36932cdb9f9a1649141616662MewarMensYellowPrintedJacket383.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/94c028ec-4260-4809-9a15-8f039d43e1601649141616617MewarMensYellowPrintedJacket384.jpg"    
+        ]
+
+    } ,
+    
+    
+    {   "id":10,
+        "title":"Men Yellow & White Jacquard Straight Kurta with Churidar",
+        "brand":"MEWAR",
+        "rating":4.8,
+        "ratingT":722,
+        "category":"Kurta Sets",
+        "type":"Men",
+        "price":1592,
+        "MRP":2699,
+        "discount":41,
+        "size":[
+             "XL","XXL"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17757964/2022/4/5/fa4832f6-7acb-4c0b-9f71-251efc0212b71649153910534MEWARMenYellowKurtawithChuridar1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/fa4832f6-7acb-4c0b-9f71-251efc0212b71649153910534MEWARMenYellowKurtawithChuridar1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/557cd57a-7734-46e7-8d12-6d2d095996411649153910510MEWARMenYellowKurtawithChuridar3.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/9ef6b6c3-75f0-44f2-84d3-8a952ff1bea01649153910522MEWARMenYellowKurtawithChuridar2.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/f85b7633-83b4-47c8-ae33-cd9e44317eac1649153910546MEWARMenYellowKurtawithChuridar6.jpg"    
+        ]
+
+    },
+
+    {    "id":11,
+        "title":"Men Navy Blue Checked Relaxed Tapered Fit Trousers",
+        "brand":"Turtle",
+        "rating":4.9,
+        "ratingT":4324,
+        "category":"Trousers",
+        "type":"Men",
+        "price":2199,
+        "MRP":2939,
+        "discount":33,
+        "size":[
+ "30","32","34"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/20538244/2022/10/28/ad7c0f0d-2b84-4fb9-94af-6f21e6a93c851666962102493TurtleMenNavyBlueNarrowFitCheckedCasualTrousers1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/ad7c0f0d-2b84-4fb9-94af-6f21e6a93c851666962102493TurtleMenNavyBlueNarrowFitCheckedCasualTrousers1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/f44d08f6-cf9f-4fdb-8a51-d954767d80911666962102481TurtleMenNavyBlueNarrowFitCheckedCasualTrousers3.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/ba9840bc-7f4f-4f1e-99a9-fa0a4ec408861666962102505TurtleMenNavyBlueNarrowFitCheckedCasualTrousers4.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/fbbcb98b-6f72-4e74-8535-76d0aeb86c801666962102527TurtleMenNavyBlueNarrowFitCheckedCasualTrousers5.jpg"    
+        ]
+
+    },
+    
+    
+    {    "id":12,
+        "title":"Men Beige Checked Skinny Fit Formal Trousers",
+        "brand":"Turtle",
+        "rating":4.8,
+        "ratingT":345,
+        "category":"Trousers",
+        "type":"Men",
+        "price":1799,
+        "MRP":2799,
+        "discount":30,
+        "size":[
+    30,32,34
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17809964/2022/4/8/b11e9be8-314c-480f-b330-69d111f1ad391649406375666TurtleMenBeigeCheckedSkinnyFitTrousers1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/b11e9be8-314c-480f-b330-69d111f1ad391649406375666TurtleMenBeigeCheckedSkinnyFitTrousers1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/019f5d56-4b25-49cd-877c-89c51e011f421649406375629TurtleMenBeigeCheckedSkinnyFitTrousers3.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/b3272898-744e-485c-9050-070da5766e5f1649406375690TurtleMenBeigeCheckedSkinnyFitTrousers2.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/c59b4fc0-d099-4d35-a766-c26b2c7383dd1649406375679TurtleMenBeigeCheckedSkinnyFitTrousers5.jpg"    
+        ]
+
+    },   
+    {     "id":13,
+    "title":"Men Pack Of 2 Solid V-Neck Pure Cotton Casual T-shirts",
+    "brand":"Puma",
+    "rating":4,
+    "ratingT":373,
+    "category":"TShirts",
+    "type":"Boys",
+    "price":824,
+    "MRP":1499,
+    "discount":45,
+    "size":[
+      "S", "M", "L", "XL", "XXL"
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17875614/2022/5/10/c91237b2-389b-4d8e-ab0c-c122f188c17c1652179469210-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--1.jpg",
+    "images":[
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/c91237b2-389b-4d8e-ab0c-c122f188c17c1652179469210-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/41c95e3c-25b3-42c1-8028-d8be464558df1652179469183-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/abbcf7fd-ac0b-4b22-9178-b08f384f93051652179469160-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17875614/2022/5/10/783975a9-ac40-447a-9c17-4d51ea5f92441652179469109-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--5.jpg"
     ]
+
+},
+
+{ "id":14,
+    "title":"Men Grey Solid dryCELL Running T-shirt",
+    "brand":"Puma",
+    "rating":4.6,
+    "ratingT":23,
+    "category":"TShirts",
+    "type":"Boys",
+    "price":1599,
+    "MRP":1999,
+    "discount":20,
+    "size":[
+          "S","M","L","XL","XXL"
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18981964/2022/11/11/7476d5b3-3f09-496c-b7ff-3da00afdc0f71668164352231-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-1.jpg",
+    "images":[
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/7476d5b3-3f09-496c-b7ff-3da00afdc0f71668164352231-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/c54e3d5f-9e4f-41b6-a66f-aceba9ef33f01668164352206-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/32dddabd-d8fd-49a3-96dd-f17514ff17f11668164352131-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981964/2022/11/11/ceaac9c5-e5e6-429d-b606-50dcaf74dadc1668164352103-Puma-Men-Grey-Solid-dryCELL-Running-T-shirt-9431668164351561-6.jpg"
+    ]
+
+},
+
+{     "id":15,
+    "title":"PUMA Black & Fluorescent Green IT evoTRG THERMO-R ACTV Printed T-shirt",
+    "brand":"Puma",
+    "rating":4.8,
+    "ratingT":938,
+    "category":"TShirts",
+    "type":"Boys",
+    "price":5599,
+    "MRP":6999,
+    "discount":20,
+    "size":[
+     "M","L"
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1565614/2016/10/1/11475325375983-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-1.jpg",
+    "images":[
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375983-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375965-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375947-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1565614/2016/10/1/11475325375926-PUMA-Black--Fluorescent-Green-IT-evoTRG-THERMO-R-ACTV-Printed-T-shirt-2541475325375807-4.jpg"
+    ]
+
+},
+
+{     "id":16,
+    "title":"Men Green dryCELL Sleeveless Training T-shirt",
+    "brand":"Puma",
+    "rating":4.8,
+    "ratingT":239,
+    "category":"TShirts",
+    "type":"Boys",
+    "price":14949,
+    "MRP":22999,
+    "discount":35,
+    "size":[
+"S","M","L","XL","XXL"
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18982172/2022/8/23/5c6ac3f6-df87-493f-8889-f2a72da62dbc1661245129169-PUMA-FIT-TANK-7881661245128705-1.jpg",
+    "images":[
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/5c6ac3f6-df87-493f-8889-f2a72da62dbc1661245129169-PUMA-FIT-TANK-7881661245128705-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/56deb1c3-cd9e-4dbb-89a8-e45274bdcb491661245129162-PUMA-FIT-TANK-7881661245128705-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/af097220-604a-4b8f-a30e-d9c114e428f71661245129143-PUMA-FIT-TANK-7881661245128705-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18982172/2022/8/23/a6f8a150-16dc-4842-8d78-07a7c3db5a591661245129132-PUMA-FIT-TANK-7881661245128705-5.jpg"
+    ]
+
+},
+
+{"id":17,
+    "title":"517 Men Navy Blue Slim Bootcut Fit Mid-Rise Light Fade Clean Look Stretchable Jeans",
+    "brand":"Levis",
+    "rating":3.9,
+    "ratingT":26,
+    "category":"Jeans",
+    "type":"Boys",
+    "price":2859,
+    "MRP":4399,
+    "discount":35,
+    "size":[
+    28,30,32,34,36
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18973970/2022/11/3/9811e6bc-adb3-4232-a0f7-8d1c5a59cf961667446781668-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-1.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/9811e6bc-adb3-4232-a0f7-8d1c5a59cf961667446781668-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-1.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/482b998b-0f2e-42b7-a898-1c1022e367301667446781643-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-2.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/ecc237ad-21fd-4fb3-84f4-bf77fc90baa61667446781619-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-3.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973970/2022/11/3/7a6913c1-0df0-4e75-a137-13eea75d61051667446781595-Levis-517-Men-Navy-Blue-Slim-Bootcut-Fit-Mid-Rise-Light-Fade-4.jpg"    
+    ]
+
+},
+
+   
+{"id":18,
+    "title":"Men Blue 511 Slim Fit Heavy Fade Stretchable Jeans",
+    "brand":"Levis",
+    "rating":3.9,
+    "ratingT":240,
+    "category":"Jeans",
+    "type":"Boys",
+    "price":2559,
+    "MRP":3199,
+    "discount":20,
+    "size":[
+28,30,32,34,36,38
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/18074818/2022/9/22/4bf811bc-a95f-4165-b342-120f55f6c28b1663844904445LevisMenBlue511SlimFitHeavyFadeStretchableJeans1.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/4bf811bc-a95f-4165-b342-120f55f6c28b1663844904445LevisMenBlue511SlimFitHeavyFadeStretchableJeans1.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/d92a1bb8-86a5-4829-a5fa-cc2af58083f51663844904490LevisMenBlue511SlimFitHeavyFadeStretchableJeans3.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/4c484cf4-88d7-4fce-8efc-2d1531c5ed3b1663844904468LevisMenBlue511SlimFitHeavyFadeStretchableJeans2.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18074818/2022/9/22/d9c17e51-b660-48cc-a9be-47f31d7f91e71663844904513LevisMenBlue511SlimFitHeavyFadeStretchableJeans4.jpg"    
+    ]
+
+} ,
+
+{"id":19,
+    "title":"Men Black 65504 Skinny Fit Light Fade Stretchable Jeans",
+    "brand":"Levis",
+    "rating":4.4,
+    "ratingT":11,
+    "category":"Jeans",
+    "type":"Boys",
+    "price":9239,
+    "MRP":13399,
+    "discount":30,
+    "size":[
+28 ,30,32,34,36
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/18973660/2022/10/14/d243a950-cb02-45f2-a3ac-10efb4514a291665721752316-Levis-Men-Jeans-9371665721751707-1.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/d243a950-cb02-45f2-a3ac-10efb4514a291665721752316-Levis-Men-Jeans-9371665721751707-1.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/1ee4aaf7-bdc6-4547-979d-61fa47930e1f1665721752307-Levis-Men-Jeans-9371665721751707-2.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/c9edf6ed-ff07-4cf9-8359-dd313d85687d1665721752298-Levis-Men-Jeans-9371665721751707-3.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18973660/2022/10/14/d83e0d29-d1ed-4484-8569-5f9428b628f31665721752289-Levis-Men-Jeans-9371665721751707-4.jpg"    
+    ]
+
+},
+
+{"id":20,
+    "title":"Men Blue 551Z Straight Fit Light Fade Stretchable Jeans",
+    "brand":"Levis",
+    "rating":4.7,
+    "ratingT":6,
+    "category":"Jeans",
+    "type":"Boys",
+    "price":3999,
+    "MRP":4999,
+    "discount":20,
+    "size":[
+   30,32,34,36,38,40
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18974072/2022/12/7/dda3ba3a-e1dd-4a63-82e0-0eac608d6d0c1670414622312-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-1.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/dda3ba3a-e1dd-4a63-82e0-0eac608d6d0c1670414622312-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-1.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/6c411540-c625-4df4-b9ac-b1df1342c8361670414622300-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-2.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/7b64c600-c7da-4ab9-922b-dff9964e213c1670414622271-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-4.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18974072/2022/12/7/db891e9d-3760-42a0-9869-3345648cd96c1670414622257-Levis-Men-Blue-551Z-Straight-Fit-Light-Fade-Stretchable-Jean-5.jpg"    
+    ]
+
+},
+
+{   "id":21,
+    "title":"Men Yellow & White Printed Woven Nehru Jacket",
+    "brand":"MEWAR",
+    "rating":4.3,
+    "ratingT":297,
+    "category":"Nehru Jackets",
+    "type":"Boys",
+    "price":1769,
+    "MRP":2999,
+    "discount":41,
+    "size":[
+              "XXL"
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17761050/2022/4/5/fc58ba3e-5813-4748-8d31-1d9b5b9d739f1649141616652MewarMensYellowPrintedJacket381.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/fc58ba3e-5813-4748-8d31-1d9b5b9d739f1649141616652MewarMensYellowPrintedJacket381.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/17786d7c-8673-4343-a639-282abe95986b1649141616640MewarMensYellowPrintedJacket382.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/4cd93437-c06a-4f44-b004-36932cdb9f9a1649141616662MewarMensYellowPrintedJacket383.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/94c028ec-4260-4809-9a15-8f039d43e1601649141616617MewarMensYellowPrintedJacket384.jpg"    
+    ]
+
+} ,
+
+
+{   "id":22,
+    "title":"Men Yellow & White Jacquard Straight Kurta with Churidar",
+    "brand":"MEWAR",
+    "rating":4.8,
+    "ratingT":722,
+    "category":"Kurta Sets",
+    "type":"Boys",
+    "price":1592,
+    "MRP":2699,
+    "discount":41,
+    "size":[
+         "XL","XXL"
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17757964/2022/4/5/fa4832f6-7acb-4c0b-9f71-251efc0212b71649153910534MEWARMenYellowKurtawithChuridar1.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/fa4832f6-7acb-4c0b-9f71-251efc0212b71649153910534MEWARMenYellowKurtawithChuridar1.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/557cd57a-7734-46e7-8d12-6d2d095996411649153910510MEWARMenYellowKurtawithChuridar3.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/9ef6b6c3-75f0-44f2-84d3-8a952ff1bea01649153910522MEWARMenYellowKurtawithChuridar2.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17757964/2022/4/5/f85b7633-83b4-47c8-ae33-cd9e44317eac1649153910546MEWARMenYellowKurtawithChuridar6.jpg"    
+    ]
+
+},
+
+{    "id":23,
+    "title":"Men Navy Blue Checked Relaxed Tapered Fit Trousers",
+    "brand":"Turtle",
+    "rating":4.9,
+    "ratingT":4324,
+    "category":"Trousers",
+    "type":"Boys",
+    "price":2199,
+    "MRP":2939,
+    "discount":33,
+    "size":[
+"30","32","34"
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/20538244/2022/10/28/ad7c0f0d-2b84-4fb9-94af-6f21e6a93c851666962102493TurtleMenNavyBlueNarrowFitCheckedCasualTrousers1.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/ad7c0f0d-2b84-4fb9-94af-6f21e6a93c851666962102493TurtleMenNavyBlueNarrowFitCheckedCasualTrousers1.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/f44d08f6-cf9f-4fdb-8a51-d954767d80911666962102481TurtleMenNavyBlueNarrowFitCheckedCasualTrousers3.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/ba9840bc-7f4f-4f1e-99a9-fa0a4ec408861666962102505TurtleMenNavyBlueNarrowFitCheckedCasualTrousers4.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20538244/2022/10/28/fbbcb98b-6f72-4e74-8535-76d0aeb86c801666962102527TurtleMenNavyBlueNarrowFitCheckedCasualTrousers5.jpg"    
+    ]
+
+},
+
+
+{    "id":24,
+    "title":"Men Beige Checked Skinny Fit Formal Trousers",
+    "brand":"Turtle",
+    "rating":4.8,
+    "ratingT":345,
+    "category":"Trousers",
+    "type":"Boys",
+    "price":1799,
+    "MRP":2799,
+    "discount":30,
+    "size":[
+30,32,34
+    ],
+    "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17809964/2022/4/8/b11e9be8-314c-480f-b330-69d111f1ad391649406375666TurtleMenBeigeCheckedSkinnyFitTrousers1.jpg",
+    "images":[
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/b11e9be8-314c-480f-b330-69d111f1ad391649406375666TurtleMenBeigeCheckedSkinnyFitTrousers1.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/019f5d56-4b25-49cd-877c-89c51e011f421649406375629TurtleMenBeigeCheckedSkinnyFitTrousers3.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/b3272898-744e-485c-9050-070da5766e5f1649406375690TurtleMenBeigeCheckedSkinnyFitTrousers2.jpg",    
+       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17809964/2022/4/8/c59b4fc0-d099-4d35-a766-c26b2c7383dd1649406375679TurtleMenBeigeCheckedSkinnyFitTrousers5.jpg"    
+    ]
+
+},
+
+    {    "id":25,
+        "title":"Women Black Evostripe Brand Logo Printed T-shirt",
+        "brand":"Puma",
+        "rating":3.9,
+        "ratingT":124,
+        "category":"TShirts",
+        "type":"Women",
+        "price":899,
+        "MRP":1799,
+        "discount":50,
+        "size":[
+       "XS","S","M","L","XL"
+        ],
+        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/19834790/2022/10/17/04ebe4bf-f9f0-4282-b15b-53d7c1a07b6b1666000072396-Puma-Women-Black-Evostripe-Brand-Logo-Printed-T-shirt-367166-1.jpg",
+        "images":[
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19834790/2022/10/17/04ebe4bf-f9f0-4282-b15b-53d7c1a07b6b1666000072396-Puma-Women-Black-Evostripe-Brand-Logo-Printed-T-shirt-367166-1.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19834790/2022/10/17/d88b8cee-6afa-412e-a375-8f1872b06b6c1666000072378-Puma-Women-Black-Evostripe-Brand-Logo-Printed-T-shirt-367166-3.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19834790/2022/10/17/4000c807-282f-489d-921f-dce94aa62c091666000072368-Puma-Women-Black-Evostripe-Brand-Logo-Printed-T-shirt-367166-4.jpg",    
+           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19834790/2022/10/17/cd9973c7-2072-4bad-9559-307e5c0949961666000072355-Puma-Women-Black-Evostripe-Brand-Logo-Printed-T-shirt-367166-5.jpg"    
+        ]
+
+    }  
+   
+
+    
+
+
+]
 
 }
