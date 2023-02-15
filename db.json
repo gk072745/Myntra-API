@@ -1607,30 +1607,6 @@
 },
 
 {   "id":73,
-    "title":"Men Yellow & White Printed Woven Nehru Jacket",
-    "brand":"Mewar",
-    "rating":4.3,
-    "ratingT":297,
-    "category":"Nehru Jackets",
-    "type":"Men",
-    "price":1769,
-    "MRP":2999,
-    "discount":41,
-    "size":[
-              "XXL"
-    ],
-    "img":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17761050/2022/4/5/fc58ba3e-5813-4748-8d31-1d9b5b9d739f1649141616652MewarMensYellowPrintedJacket381.jpg",
-    "images":[
-       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/fc58ba3e-5813-4748-8d31-1d9b5b9d739f1649141616652MewarMensYellowPrintedJacket381.jpg",    
-       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/17786d7c-8673-4343-a639-282abe95986b1649141616640MewarMensYellowPrintedJacket382.jpg",    
-       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/4cd93437-c06a-4f44-b004-36932cdb9f9a1649141616662MewarMensYellowPrintedJacket383.jpg",    
-       "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17761050/2022/4/5/94c028ec-4260-4809-9a15-8f039d43e1601649141616617MewarMensYellowPrintedJacket384.jpg"    
-    ]
-
-} ,
-
-
-{   "id":74,
     "title":"Men Yellow & White Jacquard Straight Kurta with Churidar",
     "brand":"Mewar",
     "rating":4.8,
